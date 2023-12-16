@@ -1,0 +1,11 @@
+a1,a2,a3,target
+T,hot,high,no
+T,hot,high,no
+F,hot,high,yes
+F,cool,normal,yes
+F,cool,normal,yes
+T,cool,high,no
+T,hot,high,no
+T,hot,normal,yes
+F,cool,normal,yes
+F,cool,high,yes
